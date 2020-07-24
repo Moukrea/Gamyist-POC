@@ -39,8 +39,8 @@ To finish the Symfony side setup, run the following:
 
 `php bin/console doctrine:database:create`  
 `php bin/console make:migration`  
-`php bin/console doctrine:migrations:migrate`  
-`php bin/console doctrine:fixtures:load`   
+`php bin/console doctrine:migrations:migrate` (say yes when asked)    
+`php bin/console doctrine:fixtures:load` (say yes when asked)  
 `php -S localhost:3000 -t public`  
 
 For Angular, it's way shorter, just run the following commands:  

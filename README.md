@@ -1,5 +1,9 @@
 # Gamyist-POC
 
+<p align="center">
+  <img src="https://github.com/Moukrea/Gamyist-POC/blob/master/logo.png?raw=true">
+</p>
+
 Angular/Symfony bootcamp final project
 
 Manage your video game collection with full informations about your games, create wishlists and follow your gamelog. This also can be used as a video game database.

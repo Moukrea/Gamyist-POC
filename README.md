@@ -60,7 +60,7 @@ The game library is just fixtures, why not try to fill it up with real data? Go 
 
 All fake users share the same password (password), but their names are generated randomly (except admin)
 
-Once loged (on Angular) you can add games to the library, edit the ones you added yourself (if you're admin, you can edit them all)... add games to you collection (as original, dematerialized, ROM), to your wishlist or gamelog on the fly (in each game details). If you're browsing you own collection, you'll also have quick menus to manage your collection directly from the list.
+Once loged (on Angular) you can add games to the library, edit the ones you added yourself (if you're admin, you can edit them all)... add games to you collection (as original, dematerialized, ROM), to your wishlist or gamelog on the fly (in each game details). If you're browsing you own collection, you'll also have quick menus to manage your collection directly from the list view.
 
 On the back-office, just a quick view of last additions, management of each CRUD (platforms, games, genres, users) and that's pretty much it.
 

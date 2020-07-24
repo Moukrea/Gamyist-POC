@@ -1,0 +1,8 @@
+[submodule "symfony"]
+	path = symfony
+	url = https://github.com/Moukrea/gamyist.git
+	branch = master
+[submodule "angular"]
+	path = angular
+	url = https://github.com/Moukrea/gamyist_angular.git
+	branch = master
